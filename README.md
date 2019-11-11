@@ -15,7 +15,7 @@ Open a new Google Chrome window, optionally with query as parameter.
 
 ### Packal
 
-1.  Download the **.alfredworkflow** file from Packal (wait for revision).
+1.  Download the **.alfredworkflow** file from [Packal](http://www.packal.org/workflow/open-new-chrome-window).
 2.  Double click to install
 
 # Usage
